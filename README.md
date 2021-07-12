@@ -1,2 +1,1 @@
-# MySimpleCleanArchitecture
-[![Arifaizin](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture.svg?style=svg)](https://circleci.com/gh/arifaizin/MySimpleCleanArchitecture)
+[![rivaldofez](https://circleci.com/gh/rivaldofez/learn_continous_integration.svg?style=svg)](https://circleci.com/gh/rivaldofez/learn_continous_integration)
